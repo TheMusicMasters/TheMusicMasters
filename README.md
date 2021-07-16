@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, Pandas and Streamlit.
 - 💞️ I’m looking to collaborate on data visualization application
 - 📫 How to reach me
-Twitter:https://twitter.com/themusicmaster9
-IG:http://cutt.ly/IG-TMM
+* Twitter:https://twitter.com/themusicmaster9
+- IG:http://cutt.ly/IG-TMM
 Facebook:https://www.facebook.com/themusicmaster9.official/
 Spotify:http://cutt.ly/SpotifyTMM
 Apple:http://cutt.ly/AppleTMM
